@@ -123,36 +123,19 @@ TOTAL EQUITY: 1543210.22
 
 ## Trader Portfolio History
 
-Add your generated graphs here:
-
-```md
 ![Trader T1](images/trader_T1.png)
-```
-
-You can include:
-- portfolio growth curves
-- realised/unrealised pnl plots
-- market price evolution
 
 ---
 
 # Active Orders View
 
-Add screenshots here:
-
-```md
 ![Active Orders](images/active_orders.png)
-```
 
 ---
 
 # Security Dashboard
 
-Add screenshots here:
-
-```md
 ![Security Dashboard](images/security_dashboard.png)
-```
 
 ---
 
